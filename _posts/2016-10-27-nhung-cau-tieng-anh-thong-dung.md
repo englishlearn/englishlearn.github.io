@@ -1819,6 +1819,10 @@ Love me love my dog. - Yêu em yêu cả đường đi, ghét em ghét cả tôn
 2 Where there is a will, there is a way "Có chí thì nên"<br/>
 3 Years bring wisdom "Gừng càng gìa càng cay "<br/>
 4 It's not empty word "Đó không phải là lời vô nghĩa"<br/>
+5 I wash my hands of you " Bó tay thật chứ"<br/>
+6 I wash my hands of this matter "Bó tay với vấn đề này chứ"<br/>
+7 That is news to me "Tôi mới nghe à"<br/>
+8 That's hearsay" là "đúng là lời đồn nhảm nhí"
 
 Hello! Did you sleep well last night? dem qua ban ngủ ngon chứ <br/>
 
